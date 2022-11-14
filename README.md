@@ -8,4 +8,6 @@ Workshop Campus Party - Meu Portfolio do Github pages
 2. RUBY
 3. Node
 
+#### Imagem com texto alternativo
+![Texto Alternativo](https://www.cleverfiles.com/howto/wp-content/uploads/2018/03/minion.jpg)
 
